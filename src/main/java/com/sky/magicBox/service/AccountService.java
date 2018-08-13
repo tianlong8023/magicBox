@@ -4,7 +4,7 @@ import com.sky.magicBox.domain.bo.AuthUser;
 import com.sky.magicBox.domain.vo.Account;
 
 /* *
- * @Author tomsun28
+ * @Author skyliu
  * @Description 
  * @Date 22:02 2018/3/7
  */

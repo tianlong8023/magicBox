@@ -3,7 +3,7 @@ package com.sky.magicBox.util;
 import java.util.Random;
 
 /* *
- * @Author tomsun28
+ * @Author skyliu
  * @Description 高频方法工具类
  * @Date 14:08 2018/3/12
  */

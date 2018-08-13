@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /* *
- * @Author tomsun28
+ * @Author skyliu
  * @Description 资源URL管理
  * @Date 21:36 2018/3/17
  */

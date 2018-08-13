@@ -3,7 +3,7 @@ package com.sky.magicBox.shiro.token;
 import org.apache.shiro.authc.AuthenticationToken;
 
 /* *
- * @Author tomsun28
+ * @Author skyliu
  * @Description JWT token
  * @Date 19:37 2018/2/10
  */

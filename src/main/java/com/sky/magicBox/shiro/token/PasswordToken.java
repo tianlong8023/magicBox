@@ -4,7 +4,7 @@ import com.sky.magicBox.util.AESUtil;
 import org.apache.shiro.authc.AuthenticationToken;
 
 /* *
- * @Author tomsun28
+ * @Author skyliu
  * @Description 
  * @Date 12:34 2018/2/27
  */

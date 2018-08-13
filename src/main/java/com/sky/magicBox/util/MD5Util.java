@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 import java.security.MessageDigest;
 
 /* *
- * @Author tomsun28
+ * @Author skyliu
  * @Description 
  * @Date 20:48 2018/2/27
  */

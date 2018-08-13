@@ -3,7 +3,7 @@ package com.sky.magicBox.domain.vo;
 import java.io.Serializable;
 
 /* *
- * @Author tomsun28
+ * @Author skyliu
  * @Description 账户
  * @Date 16:25 2018/2/27
  */

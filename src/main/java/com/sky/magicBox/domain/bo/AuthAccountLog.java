@@ -3,7 +3,7 @@ package com.sky.magicBox.domain.bo;
 import java.util.Date;
 
 /* *
- * @Author tomsun28
+ * @Author skyliu
  * @Description 用户账户操作日志
  * @Date 8:14 2018/4/22
  */

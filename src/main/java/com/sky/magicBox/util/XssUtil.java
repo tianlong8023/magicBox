@@ -3,7 +3,7 @@ package com.sky.magicBox.util;
 import java.util.regex.Pattern;
 
 /* *
- * @Author tomsun28
+ * @Author skyliu
  * @Description Web防火墙工具类
  * @Date 19:51 2018/4/15
  */
