@@ -19,10 +19,10 @@ import org.springframework.http.converter.json.Jackson2ObjectMapperBuilder;
 @MapperScan("com.sky.magicBox.dao")
 @EnableCaching
 @ServletComponentScan
-public class magicBoxApplication {
+public class MagicBoxApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(magicBoxApplication.class, args);
+		SpringApplication.run(MagicBoxApplication.class, args);
 	}
 
 	@Bean
