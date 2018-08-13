@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @Transactional
-public class magicBoxApplicationTests {
+public class MagicBoxApplicationTests {
 
 	@Autowired
     private StringRedisTemplate template;
