@@ -5,8 +5,11 @@
 
 	<groupId>com.sky</groupId>
 	<artifactId>magicBox</artifactId>
+	<!--<version>0.0.1-SNAPSHOT</version>-->
+	<!--<packaging>jar</packaging>-->
+	<!--war包发布-->
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>magicBox</name>
 	<description>magicBox project for Spring Boot</description>
@@ -56,7 +59,22 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
+			<!-- war包发布 -->
+			<!-- 移除嵌入式tomcat插件 -->
+			<!--<exclusions>-->
+				<!--<exclusion>-->
+					<!--<groupId>org.springframework.boot</groupId>-->
+					<!--<artifactId>spring-boot-starter-tomcat</artifactId>-->
+				<!--</exclusion>-->
+			<!--</exclusions>-->
 		</dependency>
+		<!--或者用tomcat的api-->
+        <dependency>
+            <groupId>org.apache.tomcat</groupId>
+            <artifactId>tomcat-servlet-api</artifactId>
+            <version>8.0.36</version>
+            <scope>provided</scope>
+        </dependency>
 
 		<!--database-->
 		<dependency>
